@@ -1,1 +1,2 @@
-Hi this is a sample for git
+Hi, this is a sample for git
+Enjoy Learning
